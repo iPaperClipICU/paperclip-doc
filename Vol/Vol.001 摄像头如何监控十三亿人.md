@@ -71,13 +71,13 @@
 也许在不久的未来，摄像头将直接喊出你的名字。
 
 [^1]:
-	[惠州市社会治安视频监控系统建设三年规划.pdf](https://r2.ipaperclip.top/file/Vol/001/惠州市社会治安视频监控系统建设三年规划.pdf)
+	[惠州市社会治安视频监控系统建设三年规划.pdf](https://r2.ipaperclip.icu/file/Vol/001/惠州市社会治安视频监控系统建设三年规划.pdf)
 	
 [^2]:
-	[青岛市北区平安城市监控系统建设方案（最终方案）.pdf](https://r2.ipaperclip.top/file/Vol/001/青岛市北区平安城市监控系统建设方案_最终方案_.pdf)
+	[青岛市北区平安城市监控系统建设方案（最终方案）.pdf](https://r2.ipaperclip.icu/file/Vol/001/青岛市北区平安城市监控系统建设方案_最终方案_.pdf)
 	
 [^3]:
-	[湖北省社会治安视频监控系统共享平台建设指导意见.pdf](https://r2.ipaperclip.top/file/Vol/001/湖北省社会治安视频监控系统共享平台建设指导意见.pdf)
+	[湖北省社会治安视频监控系统共享平台建设指导意见.pdf](https://r2.ipaperclip.icu/file/Vol/001/湖北省社会治安视频监控系统共享平台建设指导意见.pdf)
 
 !!! note "该文件编辑日志"
 

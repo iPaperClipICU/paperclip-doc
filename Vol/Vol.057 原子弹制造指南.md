@@ -118,6 +118,25 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaYPETr8gxdG0fSteB1sYIatn7UQbvhQQCibnAK2pLKvf1Z3mVWFfclb5R1aEuRrM43y1DibC2SNjsfQ.png)
 
+[^1]:
+	[低阻抗开关.pdf](https://r2.ipaperclip.icu/file/Vol/057/低阻抗开关.pdf)
+	
+[^2]:
+	[电子雷管.pdf](https://r2.ipaperclip.icu/file/Vol/057/电子雷管.pdf)
+	
+[^3]:
+	[分离铀-235的方法和仪器.pdf](https://r2.ipaperclip.icu/file/Vol/057/分离铀-235的方法和仪器.pdf)
+	
+[^4]:
+	[洛斯阿拉莫斯国家实验室.pdf](https://r2.ipaperclip.icu/file/Vol/057/洛斯阿拉莫斯国家实验室.pdf)
+	
+[^5]:
+	[气压感应开关.pdf](https://r2.ipaperclip.icu/file/Vol/057/气压感应开关.pdf)
+	
+[^6]:
+	[生产、分离、浓缩钚.pdf](https://r2.ipaperclip.icu/file/Vol/057/生产、分离、浓缩钚.pdf)
+	
+
 !!! note "该文件编辑日志"
 
 	* 	Mar 29, 2020.
