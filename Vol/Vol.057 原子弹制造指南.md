@@ -118,6 +118,10 @@
 
 ![img](https://paperclip.host/static/U6yRaDu1NaYPETr8gxdG0fSteB1sYIatn7UQbvhQQCibnAK2pLKvf1Z3mVWFfclb5R1aEuRrM43y1DibC2SNjsfQ.png)
 
+!!! abstract ""
+
+	补充文件由 [mefengxiao](https://github.com/mefengxiao) [提供](https://github.com/iPaperClipICU/ipaperclip.icu/issues/119)
+
 [^1]:
 	[低阻抗开关.pdf](https://r2.ipaperclip.icu/file/Vol/057/低阻抗开关.pdf)
 	
