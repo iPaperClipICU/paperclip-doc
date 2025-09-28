@@ -15,7 +15,7 @@
 
 好在微信环境相对封闭，审查级别并不高。多伦多大学一份 2016 年 11 月发布的报告中，只发现 178 个禁词，且仅针对用中国大陆手机号码。
 
-![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/4.gif)
+![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/4.jpg)
 
 而在 web 2.0 时代，随着博客、论坛、社交网络开始成为主流产品，任何信息都有可能一夜间传遍全网。传统禁词方案的缺陷开始暴露出来。
 
@@ -51,7 +51,7 @@
 
 今天的分词算法可以成功识别插入特殊符号的敏感词。而配合扩展词表，也可以处理以同音字或拼音替代的敏感词。
 
-![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/10.gif)
+![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/10.jpg)
 
 但对于联想类敏感词和事件类敏感内容，还是需要其他算法的加持。
 
@@ -67,7 +67,7 @@
 
 即正常评论的概率 P(g)=70%，敏感评论的概率 P(b)=30%。
 
-![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/12.gif)
+![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.014%20如何科学地消灭敏感词/12.jpg)
 
 再对所有文本进行分词，计算每个词出现的概率。
 
