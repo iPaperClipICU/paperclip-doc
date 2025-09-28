@@ -73,7 +73,7 @@
 
 这也就难免在管理上出纰漏，位于黑龙江的讷河监狱，曾有囚犯私藏手机，通过聊天软件与附近多名女子裸聊并实施诈骗，其中一位受害者还是警察的妻子。
 
-![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.030%20如何建造一座戒备森严的监狱/17.gif)
+![img](https://cdn.jsdelivr.net/gh/iPaperClipICU/static/image/文字稿/Vol/Vol.030%20如何建造一座戒备森严的监狱/17.jpg)
 
 !!! note "该文件编辑日志"
 
